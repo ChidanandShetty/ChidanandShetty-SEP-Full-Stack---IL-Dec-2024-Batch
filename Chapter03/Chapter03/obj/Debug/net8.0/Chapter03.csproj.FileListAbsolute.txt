@@ -1,0 +1,14 @@
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.AssemblyInfoInputs.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.AssemblyInfo.cs
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.csproj.CoreCompileInputs.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\bin\Debug\net8.0\Chapter03.exe
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\bin\Debug\net8.0\Chapter03.deps.json
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\bin\Debug\net8.0\Chapter03.runtimeconfig.json
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\bin\Debug\net8.0\Chapter03.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\bin\Debug\net8.0\Chapter03.pdb
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\refint\Chapter03.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.pdb
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\Chapter03.genruntimeconfig.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Chapter03\Chapter03\obj\Debug\net8.0\ref\Chapter03.dll
