@@ -1,0 +1,14 @@
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\bin\Debug\net8.0\Color&Ball.exe
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\bin\Debug\net8.0\Color&Ball.deps.json
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\bin\Debug\net8.0\Color&Ball.runtimeconfig.json
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\bin\Debug\net8.0\Color&Ball.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\bin\Debug\net8.0\Color&Ball.pdb
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.AssemblyInfoInputs.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.AssemblyInfo.cs
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.csproj.CoreCompileInputs.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\refint\Color&Ball.dll
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.pdb
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\Color&Ball.genruntimeconfig.cache
+C:\Users\chida\OneDrive\Desktop\Antra\Color&Ball\Color&Ball\obj\Debug\net8.0\ref\Color&Ball.dll
